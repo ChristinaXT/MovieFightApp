@@ -7,7 +7,6 @@ const fetchData = async () => {
 
 
 
-
        apikey: '75f0c400',
        i: 'tt0848228'
      }
